@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose Carvalho</h1>
+<h2 align="center">Hi 👋, I'm Jose Carvalho</h2>
 <h3 align="center">I am a computer engineer.</h3>
 
 <p>My name is Jose and I am a Full-Stack developer at Tramontina. Currently I develop ERPs in C#/FourJs Genero language and work with IBM Informix database. I use GitLab for versioning control and Kanban and Scrum for workflow. I'm majoring in computer science.</p>
