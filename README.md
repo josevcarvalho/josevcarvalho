@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E7DED&height=100&section=header"/>
 
 <h2 align="center">Hi 👋, I'm Jose Carvalho</h2>
 <h3 align="center">I'm a systems developer</h3>
@@ -19,4 +19,4 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevcarvalho&layout=compact&hide_border=true&title_color=2E7DED&text_color=c9d1d9&bg_color=0d1117" /></p>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E7DED&height=100&section=footer"/>
