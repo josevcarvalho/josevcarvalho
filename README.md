@@ -17,7 +17,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   </p>
   <a href="https://github.com/josevcarvalho?tab=repositories">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevcarvalho&layout=compact&hide_border=true&title_color=2E7DED&text_color=c9d1d9&bg_color=0d1117" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevcarvalho&layout=compact&hide_border=true&title_color=F0F6FC&text_color=c9d1d9&bg_color=0d1117" />
   </a>
 </div>
 
