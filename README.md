@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E7DED&height=100&section=header"/>
-
 <div align="center">
   <h2>Hi 👋, I'm Jose Carvalho</h2>
   <h3>I'm a systems developer</h3>
