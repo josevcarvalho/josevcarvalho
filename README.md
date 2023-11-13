@@ -2,7 +2,7 @@
   <h2>Hi 👋, I'm Jose Carvalho</h2>
   <h3>I'm a systems developer</h3>
 
-  <p align="left">My name is Jose and I'm a Full-Stack developer at Tramontina. Currently I develop ERPs in C#/FourJs Genero language and work with IBM Informix database. I use GitLab for versioning control and Kanban and Scrum for workflow. I'm majoring in computer science. I develop JavaScript projects as a hobby.</p>
+  <p align="left">My name is Jose and I'm a Full-Stack developer at Tramontina. Currently I develop ERPs in C#/FourJs Genero language and work with IBM Informix database. I use GitLab for versioning control and Kanban and Scrum for workflow. I'm majoring in computer science. As a hobby, I engage in React projects.</p>
 
   <h3 >Skills:</h3>
   <p> 
