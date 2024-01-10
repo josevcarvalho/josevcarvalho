@@ -3,8 +3,7 @@
 
 My name is Jose and I'm a Full-Stack developer at Tramontina. Currently I develop ERPs in C#/FourJs Genero
 language and work with IBM Informix database. I use GitLab for versioning control and Kanban and Scrum for
-workflow. I'm majoring in computer science. As a hobby, I work on React projects and [upload them to
-GitHub](https://github.com/stars/josevcarvalho/lists/react).
+workflow. I'm majoring in computer science.
 
    <div align="center">
         <h3>Skills:</h3>
