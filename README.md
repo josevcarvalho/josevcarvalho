@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Jose Carvalho</h2>
 <h3 align="center"> I'm a systems developer</h3>
 
-My name is Jose and I'm a Full-Stack developer at Tramontina. Currently I develop ERPs in C#/FourJs Genero
+My name is Jose and I'm a Full-Stack developer at Tramontina. Currently I develop ERPs in React/C#/FourJs Genero
 language and work with IBM Informix database. I use GitLab for versioning control and Kanban and Scrum for
 workflow. I'm majoring in computer science.
 
