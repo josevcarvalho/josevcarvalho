@@ -17,7 +17,7 @@ workflow. I'm majoring in computer science.
       </a>
       <a href="https://www.ibm.com/products/informix" target="_blank" rel="noreferrer">
          <img
-            src="https://camo.githubusercontent.com/a85eea97365c76656e90ef3a4fc31c3864861b766a4ef418b4e4f04d412f77ba/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f352f35312f49424d5f6c6f676f2e7376672f31323070782d49424d5f6c6f676f2e7376672e706e67"
+            src="https://horusinfo.com.br/wp-content/uploads/2017/05/IBM-DB2.png"
             alt="ibm-informix" 
             width="40" 
             height="40" />
