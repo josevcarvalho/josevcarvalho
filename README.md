@@ -40,6 +40,11 @@ Desenvolvedor Fullstack na Tramontina.
       alt="React" 
       width="50" 
       height="50" /> 
+   <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+      alt="Nextjs" 
+      width="50" 
+      height="50" /> 
 </div>
 
 ## 🔗 Links
