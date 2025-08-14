@@ -1,9 +1,8 @@
 # Olá, eu sou o José! 👋
 
-## 🚀 Sobre mim
 Desenvolvedor Fullstack na Tramontina. 
 
-### ✅ Experiencias em
+## ✅ Experiencias em
 - Desenvolvimento e manutenção de sistema ERP
 - Integrações e migrações de dados para SAP 4HANA
 - Suporte a usuários SAP B1 
