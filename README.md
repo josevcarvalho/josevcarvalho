@@ -1,8 +1,10 @@
 # Olá, eu sou o José! 👋
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="PCzão">
+
 Desenvolvedor Fullstack na Tramontina. 
 
-## ✅ Experiencias em
+### ✅ Experiencias
 - Desenvolvimento e manutenção de sistema ERP
 - Integrações e migrações de dados para SAP 4HANA
 - Suporte a usuários SAP B1 
