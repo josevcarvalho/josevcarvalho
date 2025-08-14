@@ -1,59 +1,47 @@
-<h2 align="center">Hi 👋, I'm Jose Carvalho</h2>
-<h3 align="center"> I'm a systems developer</h3>
+# Olá, eu sou o José! 👋
 
-My name is Jose and I'm a Full-Stack developer at Tramontina. Currently I develop ERPs in React/C#/FourJs Genero
-language and work with IBM Informix database. I use GitLab for versioning control and Kanban and Scrum for
-workflow. I'm majoring in computer science.
+## 🚀 Sobre mim
+Desenvolvedor Fullstack na Tramontina. 
 
-<div align="center">
-   <h3>Skills:</h3>
-   <p>
-      <a href="https://4js.com" target="_blank" rel="noreferrer"> 
-         <img
-            src="https://avatars.githubusercontent.com/u/15048951?s=200&amp;v=4" 
-            alt="genero-bdl"
-            width="40" 
-            height="40" /> 
-      </a>
-      <a href="https://www.ibm.com/products/informix" target="_blank" rel="noreferrer">
-         <img
-            src="https://horusinfo.com.br/wp-content/uploads/2017/05/IBM-DB2.png"
-            alt="ibm-informix" 
-            width="40" 
-            height="40" />
-      </a>
-      <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
-         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp"
-            width="40" 
-            height="40" /> 
-      </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-         <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-            alt="git" 
-            width="40"
-            height="40" /> 
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" 
-            width="40" 
-            height="40" /> 
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" 
-            width="40" 
-            height="40" /> </a>
-   </p>
-   <div align="center">
-      <a href="https://github.com/josevcarvalho?tab=repositories">
-         <img 
-            height=150
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevcarvalho&layout=compact&hide_border=true&title_color=F0F6FC&text_color=c9d1d9&bg_color=0d1117" />
-     </a>
+### ✅ Experiencias em
+- Desenvolvimento e manutenção de sistema ERP
+- Integrações e migrações de dados para SAP 4HANA
+- Suporte a usuários SAP B1 
+- Criação de APIs e aplicações front-end  
+- Code review e boas práticas de desenvolvimento
+- Metodologias ágeis: Kanban, Scrum
+- Ferramentas de suporte: Confluence, Jira
+- Controle de versionamento e Git
+- Banco de dados e SQL
+
+## 🛠 Habilidades
+<div display="inline">
+   <img
+      src="https://avatars.githubusercontent.com/u/15048951?s=200&amp;v=4" 
+      alt="Genero BDL"
+      width="50" 
+      height="50" />
+   <img
+      src="https://horusinfo.com.br/wp-content/uploads/2017/05/IBM-DB2.png" 
+      alt="IBM Informix"
+      width="50" 
+      height="50" /> 
+   <img
+      src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" 
+      alt="ASP.NET"
+      width="50" 
+      height="50" /> 
+   <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+      alt="Git" 
+      width="50"
+      height="50" /> 
+   <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="React" 
+      width="50" 
+      height="50" /> 
 </div>
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josevcarvalho)
